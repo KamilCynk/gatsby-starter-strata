@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter - Strata by HTML5 UP',
-    author: 'Hunter Chang',
-    description: 'A Gatsby.js Starter based on Strata by HTML5 UP',
+    title: 'rychbud.pl - Ryszard Mierzwa',
+    author: 'Ryszard Mierzwa',
+    description: 'Rychbud - Usługi remontowo - wykończeniowe'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
