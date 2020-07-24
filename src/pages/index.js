@@ -5,7 +5,7 @@ import Gallery from '../components/Gallery'
 import Layout from '../components/layout'
 
 const HomeIndex = () => {
-  const siteTitle = 'rychbud.pl - Ryszard Mierszwa'
+  const siteTitle = 'rychbud.pl - Ryszard Mierzwa'
   const siteDescription = 'Usługi remontowo - wykończeniowe'
 
   return (
